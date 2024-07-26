@@ -1,4 +1,3 @@
-#This is my zomato landing page clone
-
-#hello  hii
+# This is my zomato landing page clone
+# hello hii
 # done with first commit
